@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f3e3ce;
+  height: 100dvh;
+}
+
+.square {
+  width: 25%;
+  aspect-ratio: 1/1;
+  background-color: #000000;
+}
